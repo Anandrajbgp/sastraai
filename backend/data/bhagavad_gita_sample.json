@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "bg_ch02_vs047",
+    "book_code": "BG",
+    "book_name": "Bhagavad Gita",
+    "adhyaya": 2,
+    "verse": 47,
+    "sanskrit_iast": "karmaṇyevādhikāraste mā phaleṣu kadācana | mā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi ||",
+    "sanskrit_devanagari": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+    "translation_english": "You have a right only to work, never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.",
+    "translation_hindi": "तुम्हारा अधिकार केवल कर्म करने पर है, उसके फलों पर कभी नहीं। तुम कर्मफल के हेतु मत बनो और तुम्हारी असङ्गता (आसक्ति) भी कर्म न करने में न हो।",
+    "commentary": "Adi Shankaracharya commentary: Adhikara is the qualification for prescribed duty without anxiety over results.",
+    "search_blob": "karma karmaṇyevādhikāraste work action fruits duty bhagavad gita chapter 2 verse 47"
+  },
+  {
+    "chunk_id": "bg_ch02_vs020",
+    "book_code": "BG",
+    "book_name": "Bhagavad Gita",
+    "adhyaya": 2,
+    "verse": 20,
+    "sanskrit_iast": "na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato'yaṁ purāṇo na hanyate hanyamāne śarīre ||",
+    "sanskrit_devanagari": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न hanyते हन्यमाने शारीरे॥",
+    "translation_english": "The soul is never born nor does it ever die; nor having once been, does it ever cease to be. Unborn, eternal, permanent, and primeval, the soul is not slain when the body is slain.",
+    "translation_hindi": "आत्मा किसी काल में भी न जन्मता है और न मरता है। तथा न यह उत्पन्न होकर फिर होने वाला ही है, क्योंकि आत्मा अजन्मा, नित्य, सनातन और पुराण है; शरीर के मारे जाने पर भी यह नहीं मारा जाता।",
+    "commentary": "The immortality of the Atman (Soul) as distinct from the physical body.",
+    "chunk_id_alt": "bg_ch02_vs020",
+    "search_blob": "soul atman birth death eternal ajo nityaṁ śāśvato bhagavad gita chapter 2 verse 20"
+  },
+  {
+    "chunk_id": "bg_ch04_vs007",
+    "book_code": "BG",
+    "book_name": "Bhagavad Gita",
+    "adhyaya": 4,
+    "verse": 7,
+    "sanskrit_iast": "yadā yadā hi dharmasya glānir bhavati bhārata | abhyutthānamadharmasya tadātmānaṁ sṛjāmyaham ||",
+    "sanskrit_devanagari": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+    "translation_english": "Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I manifest Myself.",
+    "translation_hindi": "हे भारत! जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब ही मैं अपने रूप को रचता हूँ (प्रकट होता हूँ)।",
+    "commentary": "Lord Krishna's advent for the restoration of Dharma whenever adharma prevails.",
+    "search_blob": "dharma glanir abhyutthanam adharmasya avatar krishna gita chapter 4 verse 7"
+  }
+]
